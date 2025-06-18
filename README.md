@@ -8,7 +8,7 @@ Welcome! This repository tracks my daily progress in mastering Data Structures a
 
 ### ✅ Week 1 – DSA Fundamentals
 - [x] Time & Space Complexity
-- [x]Arrays
+- [x] Arrays
 - [x] Strings
 - [ ] Recursion
 - [ ] Sorting Algorithms
